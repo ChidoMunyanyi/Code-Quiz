@@ -1,0 +1,15 @@
+create a start button variable
+get element from html
+add click function to start button variable
+add eventListener to click start button
+
+create timer variable
+get element from html
+create timer function with:
+  time interval 
+  if statement to decrease time
+  if statement to stop timer
+  display message 
+
+create questions variable
+create 
